@@ -1,0 +1,8 @@
+id,name,dateOfBirth,gender,abilities,roles,type
+1,Au Alan,1980-02-28,M,"Sound Effects,Character Voices","Audio Engineer",EM
+2,Ben Brian,1977-04-15,M,"Characters,Scenery,Objects","Artist",EM
+3,Chan Tai Man,1986-05-05,M,"Characters,Scenery","Artist",EM
+4,Kelly Betty,1988-04-01,F,"Java,C++","Programmer",Manager
+5,Penny Selly,1990-03-01,F,"Testing","Tester",Worker
+6,Adam Adrian,1966-10-01,M,"Administration","Administrator",Admin
+7,Yen Hao Zhi,1997-01-02,M,"Java,C++","Programmer",EM

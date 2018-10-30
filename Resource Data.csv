@@ -1,0 +1,10 @@
+id,name,description,type,cost
+1,paper,paper for drawing and documents,not reusable,100
+2,stationary,pen or pencil,not reusable,200
+3,computer,need computer,reusable,5000
+4,recording studio,for recording,reusable,2000
+5,microphone,for recording the voice of characters,reusable,2500	
+6,private car,for finding place to create the stage,reusable,10000	
+7,camera,for taking photos to create the stage,reusable,1000	
+8,drawing tools,for drawing,reusable,500	
+9,photoshop,for drawing,reusable,300	
